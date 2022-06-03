@@ -1,0 +1,1 @@
+lesson about c variables
