@@ -34,3 +34,4 @@ char *leet(char *s)
 		c++;
 	}
 	return (s);
+}
